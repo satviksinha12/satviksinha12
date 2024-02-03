@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @satviksinha12                                                            ![visitors](https://visitor-badge.glitch.me/badge?page_id=satviksinha12&left_color=green&right_color=red)
+- 👋 Hi, I’m @satviksinha12                                                           ${satviksinha12}.${satviksinha12}, https://visitor-badge.glitch.me/badge?page_id=satviksinha12.visitor-badge
 - 👀 I’m interested in ...computer programming
 - 🌱 I’m currently learning ...C++,C#,Javascript,Ruby
 - 💞️ I’m looking to collaborate on ... C based projects, HTML and CSS still in learning phase, .NET in the intermediate
