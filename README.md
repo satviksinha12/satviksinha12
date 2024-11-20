@@ -16,11 +16,11 @@
 </div>
 - 💞️ I’m looking to collaborate on ... C based projects, HTML and CSS still in learning phase, .NET in the intermediate
 - 📫 How to reach me ...Discord: Satviksinha#9830  Linkedin: www.linkedin.com/in/satvik-sinha-ba4a321ab
+
+
 -💻 Specialisation-B.Tech CSE
 
       
-
-
 ![  Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=satviksinha12&show_icons=true&theme=radical)
 
 <!---
