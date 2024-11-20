@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @satviksinha12                                                           $
 - 👀 I’m interested in ...computer programming
-- 🌱 I’m currently learning ...C++,C#,Javascript,Ruby
+- 🌱 I’m currently learning ...C++,C#,Javascript,Ruby,AI/ML 
 - 💞️ I’m looking to collaborate on ... C based projects, HTML and CSS still in learning phase, .NET in the intermediate
 - 📫 How to reach me ...Discord: Satviksinha#9830  Linkedin: www.linkedin.com/in/satvik-sinha-ba4a321ab
+-💻 Specialisation-B.Tech CSE
 
+ Vellore Institue of Technology Vellore
 
-
-
-
+(https://www.makarenalabs.com/wp-content/uploads/2021/01/Tensorflow_logo-958x1024.png)
 ![  Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=satviksinha12&show_icons=true&theme=radical)
 
 <!---
